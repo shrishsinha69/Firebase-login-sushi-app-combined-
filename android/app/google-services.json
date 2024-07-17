@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062148041883",
+    "project_id": "more-firebase-dcf6c",
+    "storage_bucket": "more-firebase-dcf6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062148041883:android:43c11f13e675ab34056a3e",
+        "android_client_info": {
+          "package_name": "com.example.morefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3LDb-PwX3hwRplw03R-amFXruxvjwkv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
